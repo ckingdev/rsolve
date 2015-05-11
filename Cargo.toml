@@ -1,0 +1,4 @@
+[package]
+name = "rsolve"
+version = "0.1.0"
+authors = ["M. Cameron Palone <mcameronpalone@gmail.com>"]
